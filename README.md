@@ -1,2 +1,2 @@
-<center># this-is-a-test
+<center># This-is-a-Test! <center>
 This is a test in GitHub.
